@@ -1,1 +1,1 @@
-Sitemap: https://prashnts.github.io/notebooks/sitemap.xml
+Sitemap: https://notebooks.noop.pw/notebooks/sitemap.xml
